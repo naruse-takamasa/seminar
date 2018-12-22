@@ -1,20 +1,16 @@
 # 研究室実践セミナー
-## 今回やること
+## 今回やること
 
-基本的なアルゴリズムの理解のために、B3がそれぞれ担当の章の内容をスライドにまとめ、ゼミという形式で前で発表する
+基本的なアルゴリズムの理解のために、B3がそれぞれ担当の章の内容をスライドにまとめ、ゼミという形式で前で発表する
 
----
-
-## 使うテキスト
+## 使うテキスト
 
 Algorithmsという本に沿って進める
 
 [Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 
----
-
 ## 担当箇所
-- [ ] 6章
+- [ ] 6章
 - [ ] 7章
 - [ ] 8章
 - [x] 9章
@@ -26,7 +22,7 @@ Algorithmsという本に沿って進める
 
 ### Coping with NP-Completeness
 
-NP完全への対処法を大まかに学習する
+NP完全への対処法を大まかに学習する
 
 #### Intelligent exhaustive search
 
@@ -44,4 +40,3 @@ NP完全への対処法を大まかに学習する
 #### Local search heuristics
 
 まだ未定
-
